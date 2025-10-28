@@ -1,0 +1,17 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "tiny-service-for-github",
+    "version": "1.0.0.0",
+    "description": "A test service for GitHub integration testing.\nAdditional details about the service: This API allows interaction with user, enabling actions like creation, update, retrieval, search, and deletion."
+  },
+  "paths": {},
+  "components": {
+    "schemas": {}
+  },
+  "servers": [
+    {
+      "url": "http://localhost:1975/api/v1"
+    }
+  ]
+}

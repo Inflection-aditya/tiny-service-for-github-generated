@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "tiny-service-for-github",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
