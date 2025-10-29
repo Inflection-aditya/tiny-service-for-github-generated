@@ -41,7 +41,7 @@ All API responses follow a standardized format:
   "data": {
     // Response data
   },
-  "timestamp": "2025-10-28T17:47:26.447Z"
+  "timestamp": "2025-10-29T17:10:17.095Z"
 }
 ```
 
@@ -58,7 +58,7 @@ Errors are handled consistently across all endpoints:
     "code": 400,
     "details": "Additional error details"
   },
-  "timestamp": "2025-10-28T17:47:26.447Z"
+  "timestamp": "2025-10-29T17:10:17.095Z"
 }
 ```
 
